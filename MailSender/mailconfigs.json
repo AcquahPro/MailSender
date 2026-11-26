@@ -1,0 +1,55 @@
+{
+  "defaultDailyLimit": 100,
+  "accounts": [
+    {
+      "name": "Test 1",
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "enableSsl": true,
+      "username": "testemail1@example.com",
+      "password": "dummyPassword1",
+      "fromAddress": "testemail1@example.com",
+      "dailyLimit": 10
+    },
+    {
+      "name": "Test 2",
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "enableSsl": true,
+      "username": "testemail2@example.com",
+      "password": "dummyPassword2",
+      "fromAddress": "testemail2@example.com",
+      "dailyLimit": 1
+    },
+    {
+      "name": "Test 3",
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "enableSsl": true,
+      "username": "testemail3@example.com",
+      "password": "dummyPassword3",
+      "fromAddress": "testemail3@example.com",
+      "dailyLimit": 1
+    },
+    {
+      "name": "Test 4",
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "enableSsl": true,
+      "username": "testemail4@example.com",
+      "password": "dummyPassword4",
+      "fromAddress": "testemail4@example.com",
+      "dailyLimit": 1
+    },
+    {
+      "name": "Test 5",
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "enableSsl": true,
+      "username": "testemail5@example.com",
+      "password": "dummyPassword5",
+      "fromAddress": "testemail5@example.com",
+      "dailyLimit": 1
+    }
+  ]
+}
